@@ -10,3 +10,8 @@ from config import db, bcrypt
 # User, class?/date?, TODO decide between teacher submitting class stats with 
 # students copying stats or have students do it manually as is done now
 # with option 1, still need date for students to submit extra training done at home
+
+# for when I forget the commands again -- 
+# flask db revision --autogenerate -m''
+# flask db upgrade head
+# you're welcome, future me
